@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>A History of Computer Science</title>
+  <id>http://nicobarbaros.github.io</id>
+  <link href="http://nicobarbaros.github.io" />
+  <link href="http://nicobarbaros.github.io/atom.xml" rel="self" />
+  <updated>2016-09-05T23:42:44+03:00</updated>
+  <rights>Copyright 2014, FAF-141</rights>
+  <author>
+    <name>FAF-141</name>
+  </author>
+  
+    <entry>
+      <title>Welcome to History of Computer Science Class</title>
+      <link href="http://nicobarbaros.github.io/2016/09/05/welcome-to-history-of-computer-science-class/" />
+      <summary type="html">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hikari&lt;/em&gt; is an open-source Jekyll theme packed with everything you need to get started and share your best learnings with the community.&lt;/p&gt;
+
+&lt;p&gt;Of course, you don’t need to be a developer to use &lt;em&gt;Hikari&lt;/em&gt;! Although, I wouldn’t recommend it to anyone who’s not willing to dive more than 5 minutes into my (sometimes) messy front-end code!&lt;/p&gt;
+
+&lt;p&gt;Jekyll and pygments can easily help you to display your best snippets. I slightly styled them, and this is how it looks:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;header&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Georgia&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;700&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;header&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;	
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Note that so far, only HTML, CSS and Javascript are styled out of the box. But everything’s ready for you to start styling your favorites languages: Python, Ruby, PHP and &lt;a href=&quot;http://rubygems.org/gems/pygments.rb&quot;&gt;many more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
+
+&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</summary>
+      <id>http://nicobarbaros.github.io/2016/09/05/welcome-to-history-of-computer-science-class/</id>
+      <updated>2016-09-05T19:57:51+03:00</updated>
+      <author>
+        <name>FAF-141</name>
+      </author>
+    </entry>
+  
+</feed>
