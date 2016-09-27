@@ -4,47 +4,69 @@
   <id>http://nicobarbaros.github.io</id>
   <link href="http://nicobarbaros.github.io" />
   <link href="http://nicobarbaros.github.io/atom.xml" rel="self" />
-  <updated>2016-09-05T23:42:44+03:00</updated>
+  <updated>2016-09-27T21:13:27+03:00</updated>
   <rights>Copyright 2014, FAF-141</rights>
   <author>
     <name>FAF-141</name>
   </author>
   
     <entry>
+      <title>Simulating the War</title>
+      <link href="http://nicobarbaros.github.io/2016/09/27/simulating-the-war/" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;“A sonnet written by a machine will be better appreciated by another machine.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alan Turing&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;World War 2 (WW2) was full of terror and agony for all the nations, there were no winners in this war because of the loses supported by the entire mankind. The WW2 was the beginning for a lot of new researches in new areas of science, one of those was Computer Science. Computers made a revolutionary job in breaking the scepticism by simulating the work of mechanical machines, making it so fast that a normal man would need 10 years for this.&lt;/p&gt;
+
+&lt;h2 id=&quot;bombe-the-enigma&quot;&gt;&lt;strong&gt;Bombe the Enigma&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Let’s start the examples with Enigma Machines, an encryption electro-mechanical device, that could encrypt the message in more than 10^19 ways. Enigma was useful during all the WW2, used by Germans in their communication with air forces and navy squads, they let anyone who can to see those messages, but without the special decryption key it would be useless to see.
+British mathematicians had a lot of hard work before they came to idea of using computers in solving this problem with decryption. Inspired by Polish cryptographers, Alan Turing build a machine later called “Turing’s Bombe” that simulated the work of 36 Enigma Machines working simultaneously. Bombe machine was the combination of 108 rotors with alphabet letters on them and 26 cables that were plugged in dependence of the message you want to decrypt, this was for sure a revolutionary approach to a mathematical problem and just the beginning for Computer Science.&lt;/p&gt;
+
+&lt;h2 id=&quot;manhattan-project&quot;&gt;&lt;strong&gt;Manhattan Project.&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;America in alliance with Great Britain and Canada, were working on development of the atomic bomb since 1942 to 1946, the result was horrifying for the entire world after bombing Hiroshima and Nagasaki. CS had it’s own impact in this project, Harvard Mark I (a.k.a. Automatic Sequence Controlled Calculator) initiated by John von Neumann, had to determine whether implosion was a viable choice to detonate the atomic bomb that would be used a year later. He made calculations on a 4500 kg machine that had 765,000 electrical components and over hundreds kilometres of wires. Mark I even had 5 horsepowers motor consuming 3,7 kw of electrical energy, it was the first machine that could do long computations automatically. Mark I was built by IBM engineers in Endicott, N.Y. A steel frame 16 m long and eight feet high held the calculator, which consisted of an interlocking panel of small gears, counters, switches and control circuits, all only a few inches in depth. The ASCC used 800 km of wire with three million connections, 3,500 multipole relays with 35,000 contacts, 2,225 counters, 1,464 tenpole switches and tiers of 72 adding machines, each with 23 significant numbers. It was the industry’s largest electromechanical calculator.
+The Mark I had 60 sets of 24 switches for manual data entry and could store 72 numbers, each 23 decimal digits long. It could do 3 additions or subtractions in a second. A multiplication took 6 seconds, a division took 15.3 seconds, and a logarithm or a trigonometric function took over one minute.
+Later another 3 more versions of it were made for calculations on different projects, including top secret projects revealed years later.&lt;/p&gt;
+
+&lt;h2 id=&quot;whirlwind-i&quot;&gt;&lt;strong&gt;Whirlwind I&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;War is always the treasury for all kind of revolutionary projects, Whirlwind I was one of those. With USA’s army resources and lead by MIT engineers, they planned a flight simulator for Air Force Bombing Crews. U.S. Navy approached MIT to build a computer that will take the input from the pilots, will make the calculations and update the environment real-time, but it wasn’t so easy to make it with the technology they had at the moment. The only two available memory technologies in 1949 that could hold this much data were mercury delay lines and electrostatic storage.
+A mercury delay line consisted of a long tube filled with mercury, a mechanical transducer on one end, and a microphone on the other end, much like a spring reverb unit later used in audio processing. Pulses were sent into the mercury delay line at one end, and took a certain amount of time to reach the other end. They were detected by the microphone, amplified, reshaped into the correct pulse shape, and sent back into the delay line. Thus, the memory was said to recirculate.
+Mercury delay lines operated at about the speed of sound, so were very slow in computer terms, even by the standards of the computers of the late 1940s and 1950s
+Later in 1945 when ENIAC computer was revealed, they focused on implementation of a digital computer to make it faster and more accurate. Just planning and designing Whirlwind I required 2 years, but at the end they manage to give the hardware necessities and operating system estimations. A 16-bits system  with 2048 words and over 5000 vacuum tubes made the beginning of powerful computers that we have today.&lt;/p&gt;
+
+&lt;p&gt;Investment of 1 million $ , 175 employees and 70 engineers led in 1951 to first flight simulator based on a high-speed storage based computer. Sadly after 3 years U.S. army lost the interest in Whirlwind I but it was a good start to use computers in development of armies.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;The war is just a competition of money, influence and ambitions, but it always led to discovery of new areas in which humanity can evolve. Computer Science had a skeptical start but flourished later and proved its utility for mankind. Due to focus of the countries on the army and big investments in it, the projects lead by universities and IBM during WW2 had a major impact on the flow of the war. Simulating problems on a machine that can do the work faster and more accurate is typical for humans, but indeed the result is fascinating until today.
+Make Computers not War.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make Computers not War.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Project Whirlwind(http://museum.mit.edu/150/21)&lt;/li&gt;
+  &lt;li&gt;Whirlwind I (http://ethw.org/Milestones:Whirlwind_Computer,_1944-59)&lt;/li&gt;
+  &lt;li&gt;Turing Mombe(https://en.wikipedia.org/wiki/)&lt;/li&gt;
+  &lt;li&gt;Harvard Mark I(https://www.britannica.com/technology/Harvard-Mark-I)&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      <id>http://nicobarbaros.github.io/2016/09/27/simulating-the-war/</id>
+      <updated>2016-09-27T19:57:51+03:00</updated>
+      <author>
+        <name>FAF-141</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>Welcome to History of Computer Science Class</title>
       <link href="http://nicobarbaros.github.io/2016/09/05/welcome-to-history-of-computer-science-class/" />
-      <summary type="html">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers’ blog has always been the way to learn from the best. So I thought it was time to give back!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Hikari&lt;/em&gt; is an open-source Jekyll theme packed with everything you need to get started and share your best learnings with the community.&lt;/p&gt;
-
-&lt;p&gt;Of course, you don’t need to be a developer to use &lt;em&gt;Hikari&lt;/em&gt;! Although, I wouldn’t recommend it to anyone who’s not willing to dive more than 5 minutes into my (sometimes) messy front-end code!&lt;/p&gt;
-
-&lt;p&gt;Jekyll and pygments can easily help you to display your best snippets. I slightly styled them, and this is how it looks:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;header&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Georgia&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;700&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;header&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;	
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Note that so far, only HTML, CSS and Javascript are styled out of the box. But everything’s ready for you to start styling your favorites languages: Python, Ruby, PHP and &lt;a href=&quot;http://rubygems.org/gems/pygments.rb&quot;&gt;many more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
-
-&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+      <summary type="html">&lt;p&gt;__ToDO&lt;/p&gt;
 </summary>
       <id>http://nicobarbaros.github.io/2016/09/05/welcome-to-history-of-computer-science-class/</id>
       <updated>2016-09-05T19:57:51+03:00</updated>
