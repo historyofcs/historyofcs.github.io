@@ -36,7 +36,6 @@ Later in 1945 when ENIAC computer was revealed, they focused on implementation o
 
 -----
 The war is just a competition of money, influence and ambitions, but it always led to discovery of new areas in which humanity can evolve. Computer Science had a skeptical start but flourished later and proved its utility for mankind. Due to focus of the countries on the army and big investments in it, the projects lead by universities and IBM during WW2 had a major impact on the flow of the war. Simulating problems on a machine that can do the work faster and more accurate is typical for humans, but indeed the result is fascinating until today.
-Make Computers not War.
 
 
 **Make Computers not War.**
