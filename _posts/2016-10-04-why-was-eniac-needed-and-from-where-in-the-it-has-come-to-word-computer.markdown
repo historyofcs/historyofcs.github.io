@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why was ENIAC needed and from where in the IT has come the word computer"
-date:   2016-09-28 16:57:51
+date:   2016-10-04 16:57:51
 author: "Alexei Dariev"
 comments: true
 ---
