@@ -32,6 +32,6 @@ To avoid the crash of the system or short circuit Eckert involved so called «mo
 
 **Reference**
 ---------------------------------------------------------------------
-History of Eniac (https://habrahabr.ru/company/1cloud/blog/301918/)
-Programming the ENIAC: an example of why computer history is hard (http://www.computerhistory.org/atchm/programming-the-eniac-an-example-of-why-computer-history-is-hard/)
-Trajectory calculation (http://zuse-z1.zib.de/simulations/eniac/history.html)
+1. History of Eniac (https://habrahabr.ru/company/1cloud/blog/301918/)
+2. Programming the ENIAC: an example of why computer history is hard (http://www.computerhistory.org/atchm/programming-the-eniac-an-example-of-why-computer-history-is-hard/)
+3. Trajectory calculation (http://zuse-z1.zib.de/simulations/eniac/history.html)
