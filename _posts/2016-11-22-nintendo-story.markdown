@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Therac-25 accidents"
-date:   2016-11-22 16:57:51
+date:   2016-11-21 16:57:51
 author: "Luca Schidu"
 comments: true
 ---
