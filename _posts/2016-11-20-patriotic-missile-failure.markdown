@@ -10,7 +10,7 @@ Nowadays Computer Science is a primary source of innovation in all fields and ar
 
 Patriotic Missile Failure
 
-alt tag
+![Alt text](https://i.ytimg.com/vi/Oh6D_YkLUcY/maxresdefault.jpg)
 
 On February 25, 1991, during the Gulf War, an American Patriot Missile battery in Dharan, Saudi Arabia, failed to track and intercept an incoming Iraqi Scud missile. Missile struck an American Army barracks, killing 28 solders and injuring around 100 other people. In order to understand how could it happened at that day, and not the day before or a month before we have to take a closer look on what was so unusual in that specific day? The answer is: "The battery was active for more than 100 hours". Two weeks before the accident acquired Saudi Arabia reported to the defense department that the system was losing time and it should not be leaved on for a long time, but they haven't mentioned what do they mean by saying "long time". It turns out that internal clock of the system was multiplied by 1/10 to produce time since boot of the system. What's so special about this number?
 
