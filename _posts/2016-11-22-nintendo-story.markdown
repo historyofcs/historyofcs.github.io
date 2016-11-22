@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Therac-25 accidents"
+title:  "Nintendo Story"
 date:   2016-11-21 16:57:51
 author: "Luca Schidu"
 comments: true
