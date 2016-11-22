@@ -7,7 +7,7 @@ comments: true
 ---
 # Therac-25 accidents
 
-![alt text](therac-machine.jpg)
+![Alt text](https://hackadaycom.files.wordpress.com/2015/10/therac-machine.jpg?w=400&h=296)
 
 Therac-25 is a X-Ray radiation therapy machine build in 1982. It has 2 main ancestors on principle of which new model was constructed. The purpose of those machines was to cure cancer through burning out cancer tumor with a high intense radiation beam. This machine was involved in 6 accidents in which 4 patients have died and 2 were very severely injured. During this blog-post we're going to focus on answering 3 important questions: "What have happened?", "Why it happened?" and the most important "Why should you care?".
 
